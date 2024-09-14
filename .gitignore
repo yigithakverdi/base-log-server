@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+
+# Some of the documentation files
+/docs
